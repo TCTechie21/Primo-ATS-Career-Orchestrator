@@ -1,7 +1,7 @@
 # Primo ATS: Universal AI Career Strategy Orchestrator 🚀
 
 **Quick Links:**
-* 🌐 [Live Demo on AWS PartyRock](https://partyrock.aws/u/primo21/1u-WgjQ7Z/Primo-ATS/snapshot/_athMroNM)
+* 🌐 [Live Demo on AWS PartyRock](https://partyrock.aws/u/primo21/Primo-ATS)
 * 👩‍💻 [LinkedIn Profile](https://www.linkedin.com/in/tiffanycox21/)
 
 ## 📖 Project Overview
@@ -23,7 +23,7 @@ Built on **AWS PartyRock**, this application uses advanced prompt orchestration 
 ## 🧰 AWS & AI Technologies
 * **Generative AI:** Claude 3 (via Amazon Bedrock / PartyRock)
 * **Prompt Engineering:** Multi-modal data ingestion and conditional logic gating.
-* **Academic Excellence:** Developed while maintaining a 100% average in [AWS re/Start Knowledge Checks](https://awsrestart.instructure.com/courses/4144/grades).
+* **Academic Excellence:** Developed while maintaining a 100% average in AWS re/Start Program 
 
 ---
 *Developed by Tiffany Cox to demonstrate the intersection of 17+ years of DoD operational leadership and Cloud-native AI architecture.*
