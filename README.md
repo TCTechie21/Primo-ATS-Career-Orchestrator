@@ -1,7 +1,7 @@
 # Primo ATS: Universal AI Career Strategy Orchestrator 🚀
 
 **Quick Links:**
-* 🌐 [Live Demo on AWS PartyRock](https://partyrock.aws/u/primo21/1u-WgjQ7Z/Primo-ATS)
+* 🌐 [Launch Live App (Public Slate)](https://partyrock.aws/u/primo21/Primo-ATS) 
 * 👩‍💻 [LinkedIn Profile](https://www.linkedin.com/in/tiffanycox21/)
 
 ## 📖 Project Overview
@@ -10,9 +10,9 @@
 Built on **AWS PartyRock**, this application uses advanced prompt orchestration to deliver a 360-degree career roadmap including technical gap analysis, automated STAR interview stories, and strategic business insight.
 
 ## 📸 Application Gallery
-| 1. Welcome & UX | 2. Universal Input | 3. Optimized CV |
+| 1. Welcome & UX | 2. Universal Input | 3. Technical Gap Analysis |
 | :---: | :---: | :---: |
-| ![Welcome](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/1_welcome.png) | ![Input](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/2_input.png) | ![CV](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/3_cv.png) |
+| ![Welcome](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/1_welcome.png) | ![Input](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/2_input.png) | ![Gap](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/7_gap_analysis.png) |
 
 ## 🛠️ Key Technical Features
 * **Universal Data Ingestion:** Engineered dynamic extraction logic that identifies company identity and industry challenges from any raw, unformatted Job Description.
@@ -23,8 +23,7 @@ Built on **AWS PartyRock**, this application uses advanced prompt orchestration 
 ## 🧰 AWS & AI Technologies
 * **Generative AI:** Claude 3 (via Amazon Bedrock / PartyRock)
 * **Prompt Engineering:** Multi-modal data ingestion and conditional logic gating.
-* **Academic Excellence:** Developed while maintaining a 100% average in AWS re/Start Program 
+* **Academic Excellence:** Developed while maintaining a **100% average** 
 
 ---
 *Developed by Tiffany Cox to demonstrate the intersection of 17+ years of DoD operational leadership and Cloud-native AI architecture.*
-*Developed as part of the AWS re/Start program to demonstrate the practical application of Generative AI in career development.*
