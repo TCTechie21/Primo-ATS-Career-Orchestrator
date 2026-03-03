@@ -15,7 +15,6 @@ Built on **AWS PartyRock**, this application uses advanced prompt orchestration 
 | ![Welcome](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/1_welcome.png) | ![Input](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/2_job_input.png) | ![Gap](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/7_gap_analysis.png) |
 | **4. Red Flag Analysis** | **5. Strategy Scripts** | **6. Interview Prep** |
 | ![Red Flags](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/6_red_flags.png) | ![Strategy](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/8_power_response.png) | ![Interview](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/10_interview_questions.png) |
-
 ## 🛠️ Key Technical Features
 * **Universal Data Ingestion:** Engineered dynamic extraction logic that identifies company identity and industry challenges from any raw, unformatted Job Description.
 * **Architecture:** Refactored to a **Single Source of Truth** data flow where the application treats the uploaded CV as the primary variable to minimize AI hallucinations.
