@@ -12,7 +12,10 @@ Built on **AWS PartyRock**, this application uses advanced prompt orchestration 
 ## 📸 Application Gallery
 | 1. Welcome & UX | 2. Universal Input | 3. Technical Gap Analysis |
 | :---: | :---: | :---: |
-| ![Welcome](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/1_welcome.png) | ![Input](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/2_input.png) | ![Gap](https://github.com/TCTechie21/Primo-ATS-Career-Orchestrator/blob/main/screenshots/7_gap_analysis.png) |
+## 📸 Application Gallery
+| 1. Welcome & UX | 2. Universal Input | 3. Technical Gap Analysis |
+| :---: | :---: | :---: |
+| ![Welcome](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/1_welcome.png) | ![Input](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/2_input.png) | ![Gap](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/7_gap_analysis.png) |
 
 ## 🛠️ Key Technical Features
 * **Universal Data Ingestion:** Engineered dynamic extraction logic that identifies company identity and industry challenges from any raw, unformatted Job Description.
