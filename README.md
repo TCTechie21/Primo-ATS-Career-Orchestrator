@@ -1,6 +1,6 @@
 # Primo ATS: AI-Driven Career Strategy Orchestrator 🚀
 
-**Live Demo:** [Primo ATS on AWS PartyRock](https://partyrock.aws/u/primo21/1u-WgjQ7Z/Primo-ATS) | **Project Snapshot:** [Interactive Results](https://partyrock.aws/u/primo21/1u-WgjQ7Z/Primo-ATS/snapshot/_athMroNM)
+**Live Demo:** [Primo ATS on AWS PartyRock](https://partyrock.aws/u/primo21/1u-WgjQ7Z/Primo-ATS) 
 
 ## 📖 Project Overview
 **Primo ATS** is an end-to-end career transition engine designed to bridge the gap between a candidate's existing technical background and the specific requirements of high-level Cloud and IT roles. 
