@@ -1,7 +1,7 @@
 # Primo ATS: Universal AI Career Strategy Orchestrator 🚀
 
 **Quick Links:**
-* 🌐 [Launch Live App (Public Slate)](https://partyrock.aws/u/primo21/Primo-ATS) 
+* 🌐 [Launch Live App (Public Slate)](https://partyrock.aws/u/primo21/1u-WgjQ7Z/Primo-ATS) 
 * 👩‍💻 [LinkedIn Profile](https://www.linkedin.com/in/tiffanycox21/)
 
 ## 📖 Project Overview
