@@ -7,6 +7,32 @@
 
 Built on **AWS PartyRock**, this application uses advanced prompt engineering to provide more than just a resume—it delivers a 360-degree career roadmap including technical gap analysis, automated STAR interview stories, and strategic business insight.
 
+---
+
+## 📸 Application Gallery
+<table>
+  <tr>
+    <td><img src="screenshots/1_welcome.png" width="300pt" /><br><sub>1. Welcome & UX</sub></td>
+    <td><img src="screenshots/2_job_input.png" width="300pt" /><br><sub>2. Universal Input</sub></td>
+    <td><img src="screenshots/3_resume_top.png" width="300pt" /><br><sub>3. Optimized CV (Top)</sub></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/4_resume_bottom.png" width="300pt" /><br><sub>4. Optimized CV (Bottom)</sub></td>
+    <td><img src="screenshots/5_cover_letter.png" width="300pt" /><br><sub>5. Tailored Cover Letter</sub></td>
+    <td><img src="screenshots/6_career_bridge.png" width="300pt" /><br><sub>6. Translatable Skills</sub></td>
+  </tr>
+    <tr>
+    <td><img src="screenshots/7_gap_analysis.png" width="300pt" /><br><sub>7. Technical Gaps</sub></td>
+    <td><img src="screenshots/8_star_interview.png" width="300pt" /><br><sub>8. STAR Interviewing</sub></td>
+    <td><img src="screenshots/9_strategy_salary.png" width="300pt" /><br><sub>9. Strategic Acumen</sub></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="screenshots/10_career_pivot.png" width="500pt" /><br><sub>10. Alternative Career Pivot Logic</sub></td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Key Technical Features
 * **Universal Prompt Engineering:** Developed dynamic extraction logic that identifies company identity and industry challenges from any raw Job Description, ensuring the tool is vendor-agnostic.
 * **Logic-First Architecture:** Refactored the application backend to move from dual-input dependency to a streamlined **Single Source of Truth (File Upload)**, resolving variable conflicts and improving User Experience (UX).
