@@ -10,7 +10,7 @@
 Built on **AWS PartyRock**, this application uses advanced prompt orchestration to deliver a 360-degree career roadmap including technical gap analysis, automated STAR interview stories, and strategic business insight.
 
 ## 📸 Application Gallery
-| 1. Welcome & UX | 2. Input | 3. Technical Gap Analysis |
+| 1. Welcome & UX | 2. Input Interface | 3. Technical Gap Analysis |
 | :---: | :---: | :---: |
 | ![Welcome](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/1_welcome.png) | ![Input](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/2_input.png) | ![Gap](https://raw.githubusercontent.com/TCTechie21/Primo-ATS-Career-Orchestrator/main/screenshots/7_gap_analysis.png) |
 
