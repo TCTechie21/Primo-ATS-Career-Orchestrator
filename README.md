@@ -23,7 +23,7 @@ Built on **AWS PartyRock**, this application uses advanced prompt orchestration 
 ## 🧰 AWS & AI Technologies
 * **Generative AI:** Claude 3 (via Amazon Bedrock / PartyRock)
 * **Prompt Engineering:** Multi-modal data ingestion and conditional logic gating.
-* **Academic Excellence:** Developed while maintaining a **100% average** 
+* **Academic Excellence:** Developed while maintaining a **100% average** in [AWS re/Start Knowledge Checks](https://awsrestart.instructure.com/courses/4144/grades) (8,370/8,370 points).
 
 ---
 *Developed by Tiffany Cox to demonstrate the intersection of 17+ years of DoD operational leadership and Cloud-native AI architecture.*
